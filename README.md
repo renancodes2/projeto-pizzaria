@@ -4,6 +4,9 @@
 
 Uma aplicação completa e robusta para pizzarias, desenvolvida do zero com as melhores práticas de frontend e backend. Essa plataforma oferece uma experiência fluida tanto para clientes quanto para administradores, com foco em performance, escalabilidade e usabilidade.
 
+![Home](./frontend/src/assets/home-pizzaria.jpeg)
+![Cart](./frontend/src/assets/cart-pizzaria.jpeg)
+
 ---
 
 ## 🌟 Destaques do Projeto
@@ -103,5 +106,6 @@ npm run dev
 ## 📝 Licença
 
 MIT © ReneLPS
+
 
 
